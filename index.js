@@ -27,7 +27,7 @@ form.addEventListener('submit', function(event) {
     nameInput.value = '';
     feedbackInput.value = '';
 
-    // Можно также отправить данные на сервер с использованием AJAX-запроса, но это зависит от ваших требований.
+    
   }
 });
 
